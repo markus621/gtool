@@ -7,7 +7,7 @@
 # install
 
 ```bash
-go get -u github.com/markus621/devtool/cmd/...
+go install github.com/markus621/devtool/cmd/dewtool@latest
 ```
 
 # commands
